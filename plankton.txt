@@ -1,2 +1,3 @@
 this text is example for plankton apps
 -konsistens is key of succes
+-langkah awal belajar
